@@ -1,11 +1,8 @@
-IBA KARACHI | DAWH FALL 2026
+IBA KARACHI | MS DS | DAWH FALL 2026
 PHARMACEUTICAL COLD SUPPLY CHAIN — SDI PHASE 1
 
-GROUP NUMBER: [FILL BEFORE SUBMISSION]
-MEMBER 1 NAME / ID: [FILL BEFORE SUBMISSION]
-MEMBER 2 NAME / ID: [FILL BEFORE SUBMISSION]
-MEMBER 3 NAME / ID: [FILL BEFORE SUBMISSION]
-GITHUB REPOSITORY URL: [ADD AFTER REPO CREATION]
-VIDEO: To be recorded and supplied later (NOT INCLUDED IN CURRENT SUBMISSION)
+GROUP NUMBER: 
+MEMBER 1 NAME / ID: Syed Muhammad Raza ul Mustufa / 36380
+MEMBER 2 NAME / ID: Talal Imran / 36237
 
-IMPORTANT: The instructor may require the video by the deadline. This file does not imply that the requirement has been fulfilled.
+GITHUB REPOSITORY URL: https://github.com/razaulmustufa/pharma-sdi-phase1-dawh

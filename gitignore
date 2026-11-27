@@ -1,0 +1,32 @@
+# Private environment and secrets
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*.json
+*.pem
+*.key
+
+# Airflow / Python runtime
+__pycache__/
+*.py[cod]
+*.log
+logs/
+config/airflow.cfg
+plugins/__pycache__/
+
+# Local database and dumps
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+
+# Raw source data (large / provided separately)
+dags/data/*.csv
+data/*.csv
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
